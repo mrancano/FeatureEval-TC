@@ -1,0 +1,3 @@
+Use of the 20 Newsgroups dataset (18,000 texts on 20 topics) to evaluate which feature selection metrics best performed in a high-skew text classification task. Developed in Python, induction algorithm used was SkLearn’s support vector machine class.
+
+
